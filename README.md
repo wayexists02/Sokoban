@@ -2,6 +2,9 @@
 Sokoban implementation in Java. This is my personal project which I made for studying programming using Java.
 This project was made in 2014(2nd year in University).
 
+## Execution
+Please install Eclipse IDE on your computer. And, import this folder, run SokobanManager.java
+
 ## Screen Shots
 ![image](https://user-images.githubusercontent.com/26874750/71716012-b6f81c00-2e56-11ea-9f4b-dfca104278e2.png)
 
